@@ -27,5 +27,7 @@ My Profile
 ### Excel
 [Retail dataset](https://github.com/Mohamad-Al-H/My-Learner-Profile/blob/9887ef244c2548d104c72bbfac3951d7930a236f/Retail%20dataset)
 
+![Pivot1](https://github.com/user-attachments/assets/5391e59f-a11f-479c-b69b-123f2bec79c0)
+![Pivot2](https://github.com/user-attachments/assets/01b402d9-0ed4-4d35-86c3-d5db7b2a9106)
 
 
