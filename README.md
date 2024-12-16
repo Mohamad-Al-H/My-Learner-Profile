@@ -25,9 +25,39 @@ My Profile
 * Python
 
 ### Excel
-[Retail dataset](https://github.com/Mohamad-Al-H/My-Learner-Profile/blob/9887ef244c2548d104c72bbfac3951d7930a236f/Retail%20dataset)
+
+#### Retail shop
+Retail dataset: [Retail_dataset.xlsx](https://github.com/user-attachments/files/18152141/retail_sales_dataset_Master.2.xlsx)
+
+Using this dataset, aggregate values were taken for average commission.
+
+![image](https://github.com/user-attachments/assets/4753331c-5c17-41e2-abb8-d9ff1b2c9632)
+
+Age groups were categorised and sorted.
+
+![image](https://github.com/user-attachments/assets/8e6ea97a-341c-4d6e-be40-eb1696bbb9f4)
+
+Created pivot tables displaying total sales for each product category against age group and gender. Then conditional formatting was applied to see areas of weakness in sales.
 
 ![Pivot1](https://github.com/user-attachments/assets/5391e59f-a11f-479c-b69b-123f2bec79c0)
+
+Created same pivot table and added sliders.
+
 ![Pivot2](https://github.com/user-attachments/assets/01b402d9-0ed4-4d35-86c3-d5db7b2a9106)
+
+#### Bike shop
+
+Bike shop dataset: [Bike_Shop_Dataset.xlsx](https://github.com/user-attachments/files/18152441/Day_3_Task_1_Bike_Sales_Pivot_Lab.xlsx)
+
+![image](https://github.com/user-attachments/assets/c6eaa479-3641-4642-ad86-a789259fbbff)
+
+![image](https://github.com/user-attachments/assets/bc2d215b-0d39-4520-87c1-bd3d61be4b30)
+
+![image](https://github.com/user-attachments/assets/571981b4-e512-4082-926e-f11295b7d482)
+
+
+
+
+
 
 
