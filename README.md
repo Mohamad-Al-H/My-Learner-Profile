@@ -57,6 +57,25 @@ Bike shop dataset: [Bike_Shop_Dataset.xlsx](https://github.com/user-attachments/
 
 
 
+### Tableau
+
+#### Job Change
+
+Job Change dataset: [EMSI_JobChange_UK.xlsx](https://github.com/user-attachments/files/18153056/EMSI_JobChange_UK.xlsx)
+
+![image](https://github.com/user-attachments/assets/ba2f9d0d-aa97-4453-9001-5d62d1ac7028)
+
+![image](https://github.com/user-attachments/assets/b2e1c51e-59c5-4073-9aed-1be55daf5e13)
+
+![image](https://github.com/user-attachments/assets/5af8af96-ac1b-4b3f-84d7-687fe7902fd9)
+
+#### Spotify 
+
+![image](https://github.com/user-attachments/assets/1e68de42-1edd-4dd7-8b9e-beed3a173622)
+
+
+
+
 
 
 
